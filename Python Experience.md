@@ -8,7 +8,6 @@
 - **Variables and Data Types** (e.g., int, float, string, list, tuple, dictionary) - *Intermediate*
 - **Control Structures** (e.g., if-else, loops) - *Intermediate*
 - **Functions and Scope** - *Intermediate*
-- **Decorator** - *Intermediate*
 
 ## 2. Intermediate Concepts
 - **List Comprehensions** - *Beginner*
@@ -18,8 +17,9 @@
 
 ## 3. Advanced Topics
 - **Object-Oriented Programming** (classes, inheritance, polymorphism) - *Beginner*
-- **Classes** - *Intermediate*
+  - **Classes** - *Intermediate*
 - **Decorators and Generators** - *Beginner*
+  - **Decorator** - *Intermediate*
 - **Context Managers** - *Beginner*
 - **Multithreading and Multiprocessing** - *Beginner*
 
