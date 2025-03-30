@@ -129,10 +129,3 @@ if hasattr(final_answer_message, 'type') and final_answer_message.type == 'ai':
       print("Final AI message has no content.")
 else:
     print("Agent did not produce a final assistant message.")
-
-# Example with the other tool
-# print("\nInvoking agent for inventory...")
-# input_inventory = {"messages": [{"role": "user", "content": "If I sold 5 bananas and had 20 available, how many are left?"}]}
-# response_inventory = graph.invoke(input_inventory, config=config)
-# print("\nFinal Inventory Answer:")
-# print(response_inventory['messages'][-1].content)
