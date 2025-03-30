@@ -25,12 +25,25 @@
 
 ## 4. Libraries and Frameworks
 - **AI** (e.g., LangChain/LangGraph) - *Beginner*
+  - LangChain - *Beginner*
+  - LangGraph - *Beginner*
+  - LangSmith - *Beginner*
+- **Data Science**
+  - Pandas - *Beginner*
 
 ## 5. Project Experience
 Brief descriptions of projects you’ve worked on, highlighting the Python skills used.
+- Friendship Coach AI Agent
+  - Utilizes Gemini LLM to store user goals, relationships, and weekly plans for focused improvement
+  - Data stored using vector embeddings in Google Drive
+  - Setup JSON schema for the different domain areas of data
+  - RAG Agent implementation and multi agents
+    - Response agent verifies information returned from vector semantic search will be helpful answering user query
 
 ## 6. Areas of Interest
 Topics or libraries you are interested in learning more about.
+- Multi Agents implemntation
+- LLM tuning
 
 ## 7. Misc.
-- Typing
+- TBD
