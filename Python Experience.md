@@ -42,7 +42,7 @@ Brief descriptions of projects you’ve worked on, highlighting the Python skill
 
 ## 6. Areas of Interest
 Topics or libraries you are interested in learning more about.
-- Multi Agents implemntation
+- Multi Agents implementation
 - LLM tuning
 
 ## 7. Misc.
