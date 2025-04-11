@@ -21,6 +21,7 @@
     - Gemini Embeddings (Gen AI)
 - **Data Pipelines**
   - Google Drive API
+ 
 **Programming**
   - Python - *Intermediate*
     - IDE
