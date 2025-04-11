@@ -8,6 +8,7 @@
 - Data Catalog
   - SAP Information Steward - *Intermediate*
   - Collibra - *Intermediate*
+    
 **AI Engineering**
 - **RAG**
 - **Tools**
