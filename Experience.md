@@ -7,7 +7,9 @@
   - Jira - *Intermediate*
 - Data Catalog
   - SAP Information Steward - *Intermediate*
-  - Collibra - *Intermediate*
+  - Collibra DIP - *Intermediate*
+- Data Quality
+  - Collibra DQ - *Intermediate*
     
 **AI Engineering**
 - **RAG**
